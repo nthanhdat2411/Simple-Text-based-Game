@@ -1,0 +1,15 @@
+Start
+Walker
+AddReward
+Stalker
+AddReward
+Charger
+AddReward
+Wrestler
+AddReward
+Smoker
+AddReward
+Berserker
+AddReward
+Warrior
+EndOfMap
